@@ -9,7 +9,9 @@
 The same app with added vesting functionality. Tokens received by the user will be vested for a period of time specified by the contract manager.
 
 start - The date vesting started
+
 cliff - The cliff period
+
 end - The fully vested date
 
 You will receive your tokens right after generating in our DAO. Cliff means the period of time after which the first portion of your tokens will become transferable. Vesting means the period of time after which all your tokens will become transferable.
